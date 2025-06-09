@@ -55,3 +55,4 @@ www.redgifs.com##.NewSeeMoreBlock
 www.redgifs.cam###home
 www.redgifs.cam##.page-nav 
 www.redgifs.com##.searchInputWrapper
+www.reddit.com##.block.h-full.w-full.max-h-full.max-w-full.nd\:visible
